@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-rdr3v9.e-pagosfacturasluz.com/sitemap.xml
